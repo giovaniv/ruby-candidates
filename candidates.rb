@@ -1,5 +1,7 @@
 require 'active_support/all'
 
+#candidates
+
 @candidates = [
   {
     id: 5,
